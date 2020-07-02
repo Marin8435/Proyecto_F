@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1593648316 source:c:\users\martin\documents\proyecto\proyecto_f\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"M_Articulos.h"
+	"M_Trabajadores.h"
+	"M_Clientes.h"
+	"M_Ventas.h"
+	"M_Reparaciones.h"
+
+1593648434 c:\users\martin\documents\proyecto\proyecto_f\m_articulos.h
+
+1593648434 c:\users\martin\documents\proyecto\proyecto_f\m_trabajadores.h
+
+1593648467 c:\users\martin\documents\proyecto\proyecto_f\m_clientes.h
+
+1593648434 c:\users\martin\documents\proyecto\proyecto_f\m_ventas.h
+
+1593648434 c:\users\martin\documents\proyecto\proyecto_f\m_reparaciones.h
+
